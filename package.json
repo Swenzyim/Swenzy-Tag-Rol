@@ -1,0 +1,22 @@
+{
+  "name": "Swenzy-Tag-Bot",
+  "version": "1.0.0",
+  "description": "Tag bot by Swenzyim",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm start"
+  },
+  "keywords": [],
+  "author": "Swenzyim",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.10.2",
+    "glob": "^7.1.7",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.37",
+    "mongoose": "^6.0.2",
+    "node-fetch": "^3.2.6",
+    "util": "^0.12.4",
+    "whisky.db": "^0.1.4"
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "token": "Bot Tokeniniz",
+    "prefix": ".",
+    "etiketTag": "Etiket Tagınız (Yoksa Yok  yazın)",
+    "isimTag": "İsim tagınız (Yoksa Yok  yazın",
+    "tagKanal": "Tag alındı/kaldırıldı mesajlarının atılacagı kanal id",
+    "verilecekRolId": "Tag alınca verilecek rol id",
+    "kurucuId": "Sunucu sahibinin idsi",
+    "sunucuId": "Botun kullanılacagı sunucu idsi"
+}
