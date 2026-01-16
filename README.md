@@ -15,4 +15,4 @@
 
 ## İletişim
 
-Discord: swenzyim
+Discord: swenzydev
