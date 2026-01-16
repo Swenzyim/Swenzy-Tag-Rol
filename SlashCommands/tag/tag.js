@@ -1,4 +1,4 @@
-const { Client, CommandInteraction, MessageEmbed } = require("discord.js"); // Swenzy ❤️ ExCODE
+const { Client, CommandInteraction, MessageEmbed } = require("discord.js"); // Swenzy ❤️
 const { createDatabase } = require("whisky.db");
 const db = new createDatabase()
 
