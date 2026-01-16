@@ -1,4 +1,4 @@
-const { Client, Collection, MessageEmbed } = require("discord.js"); // Swenzy ❤️ ExCODE
+const { Client, Collection, MessageEmbed } = require("discord.js"); // Swenzy ❤️
 const { createDatabase } = require("whisky.db");
 const db = new createDatabase()
 const moment = require("moment-timezone");
@@ -29,7 +29,7 @@ client.on('debug', (limit) => {
 
 /*
 
-* @developer Swenzyim
+* @developer Swenzydev
 
 */
 
