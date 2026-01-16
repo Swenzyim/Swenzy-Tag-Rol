@@ -1,4 +1,4 @@
-const { Client, CommandInteraction } = require("discord.js"); // Swenzy ❤️ ExCODE
+const { Client, CommandInteraction } = require("discord.js"); // Swenzy ❤️
 
 module.exports = {
     name: "ping",
