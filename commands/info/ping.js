@@ -1,4 +1,4 @@
-const { Message, Client } = require("discord.js"); // Swenzy ❤️ ExCODE
+const { Message, Client } = require("discord.js"); // Swenzy ❤️
 
 module.exports = {
     name: "ping",
