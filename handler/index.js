@@ -1,4 +1,4 @@
-const { glob } = require("glob"); // Swenzy ❤️ ExCODE
+const { glob } = require("glob"); // Swenzy ❤️
 const { promisify } = require("util");
 const { Client } = require("discord.js");
 const mongoose = require("mongoose");
