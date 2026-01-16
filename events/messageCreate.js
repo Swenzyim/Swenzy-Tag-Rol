@@ -1,4 +1,4 @@
-const client = require("../index"); // Swenzy ❤️ ExCODE
+const client = require("../index"); // Swenzy ❤️
 
 client.on("messageCreate", async (message) => {
     if (
