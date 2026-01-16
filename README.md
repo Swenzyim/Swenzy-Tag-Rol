@@ -11,7 +11,7 @@
 
 ## Hata Aldıysan Discord Sunucumuza Gelebilirsin!
 
-[![Discord Banner](https://api.weblutions.com/discord/invite/react/)](https://discord.gg/excode)
+[![Discord Banner](https://api.weblutions.com/discord/invite/npm/)](https://discord.gg/npm)
 
 ## İletişim
 
